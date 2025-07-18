@@ -13,7 +13,7 @@ This project uses **YOLOv8** and **OpenCV** to detect and count objects, specifi
 
 ## 📸 Demo
 
-> ![Sample Output](output_with_boxes)
+> ![Sample Output](output_with_boxes.jpg)
 
 ## 🛠️ Technologies Used
 
