@@ -74,6 +74,7 @@ face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_fronta
 
 **Deepak Misal**
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/deepakmisal24/)
+
 **Samarth Bhutnal**
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/samarth-bhutnal-523446334/)
 
